@@ -21,16 +21,17 @@ public class IfForExample {
         }
 
 
-        a = 'a'; {
-            System.out.println("a");
+        a = 'a';
+        System.out.println(a);
 
-            b = 'b';
-            System.out.println("b");
+        b = 'b';
+        System.out.println(b);
 
 
-
-            if (a == b);
+        if (a == b) ;{
             System.out.println(a == b);
+
+
 
 
         }
